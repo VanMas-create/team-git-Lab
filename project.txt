@@ -1,2 +1,2 @@
-# Course=Git
-status=draft
+course=Git
+status=feature
