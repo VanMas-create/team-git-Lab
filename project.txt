@@ -1,2 +1,2 @@
 course=Git
-status=feature
+status=main
