@@ -1,2 +1,6 @@
 course=Git
+<<<<<<< HEAD
 status=main
+=======
+status=feature
+>>>>>>> feature/status
