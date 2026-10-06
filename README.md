@@ -7,7 +7,7 @@ Unfinished notes
 
 Maslov - создал свою ветку и репозиторий
 
-Smakotina - создала свою ветку
+Smakotina - создала свою ветку )))
 
 Lvov - создал свою ветку
 
