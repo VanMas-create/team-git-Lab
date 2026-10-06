@@ -1,3 +1,11 @@
 course=Git
+<<<<<<< HEAD
 status=integrated
 
+=======
+<<<<<<< HEAD
+status=main
+=======
+status=feature
+>>>>>>> feature/status
+>>>>>>> f92a88d79e374c6ec5210057e5a1846e3b72d927
